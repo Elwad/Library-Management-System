@@ -1,2 +1,1 @@
-These are some projects I worked on in my personal time and for school!
-
+Using SQL in Oracle, developed a database system that managed library data
